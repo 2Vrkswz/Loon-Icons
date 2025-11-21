@@ -2,29 +2,26 @@
   "name": "自用软件图标",
   "description": "自建的Loon图标合集",
   "icons": [
-    {
-      "name": "同花顺",
-      "url": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/同花顺.png"
-    },
-    {
-      "name": "糖心",
-      "url": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/糖心.png"
-    },
-    {
-      "name": "元气壁纸",
-      "url": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/元气壁纸.png"
-    },
-    {
-      "name": "波点音乐",
-      "url": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/波点音乐.png"
-    },
-    {
-      "name": "得物",
-      "url": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/得物.png"
-    },
-    {
-      "name": "识货",
-      "url": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/识货.png"
-    },
+    {"name": "同花顺",
+      "url": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/同花顺.png"},
+    {"name": "糖心",
+      "url": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/糖心.png"},
+    {"name": "元气壁纸",
+      "url": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/元气壁纸.png"},
+    {"name": "波点音乐",
+      "url": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/波点音乐.png"},
+    {"name": "得物",
+      "url": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/得物.png"},
+    {"name": "识货",
+      "url": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/识货.png"},
+    {"name": "抖音",
+      "appleId": "1142110895"},
+    {"name": "微信",
+      "appleId": "414478124"},
+    {"name": "拼多多",
+      "appleId": "1044283059"},
+    {"name": "支付宝",
+      "appleId": "333206289"}
+    ]
   ]
 }
