@@ -8,7 +8,7 @@
 
 点击下面的链接即可在 Loon 中直接导入本图标集：
 
-[导入元气图标集](https://github.com/2Vrkswz/Loon-Icons/blob/main/iconset.json)
+[导入元气图标集](loon://import?url=https://github.com/2Vrkswz/Loon-Icons/blob/main/iconset.json)
 
 > ⚠️ 注意：请确保使用的是 Loon 支持的最新版本，否则可能无法正确显示图标。
 
