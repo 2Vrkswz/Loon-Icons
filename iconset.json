@@ -21,6 +21,26 @@
     {"name": "拼多多",
       "appleId": "1044283059"},
     {"name": "支付宝",
-      "appleId": "333206289"}
+      "appleId": "333206289"},
+    {
+            "name": "抖音",
+            "appleId": "1142110895",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/ad/91/5dad917b-5797-689c-ed0b-3a2778562402/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.jpg"
+        },
+        {
+            "name": "微信",
+            "appleId": "414478124",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/7c/70/9c7c7080-c168-3960-4d8a-2feb5f4dd021/AppIcon-0-0-1x_U007epad-0-6-0-sRGB-0-85-220.png/100x100bb.jpg"
+        },
+        {
+            "name": "拼多多",
+            "appleId": "1044283059",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/42/69/4a426900-e78e-9016-63cb-cba37c1b4802/AppIcon-1x_U007emarketing-0-8-0-0-0-85-220-0.png/100x100bb.jpg"
+        },
+        {
+            "name": "支付宝",
+            "appleId": "333206289",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/f2/d2/72f2d26e-13f8-dec9-982a-9e6db0e6d05e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+        }
     ]
 }
