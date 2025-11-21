@@ -1,6 +1,6 @@
-# 元气图标集 for Loon
+# ZaneWang的图标集 for Loon
 
-欢迎使用 **元气图标集**！这是一个为 Loon iOS / macOS 用户准备的图标集合，包含常用应用、网站和主题图标，让你的 Loon 更加个性化。
+欢迎使用 **ZaneWang的图标集**！这是一个为 Loon iOS / macOS 用户准备的图标集合，包含常用应用、网站和主题图标，让你的 Loon 更加个性化。
 
 ---
 
