@@ -166,5 +166,15 @@
             "appleId": "1458072671",
             "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/4f/4c/f84f4cd6-2fec-90d4-debf-ff20c7d8aa7d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
         }
+         {
+            "name": "中国联通",
+            "appleId": "416457422",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/97/35/139735d4-8fa9-73c1-147c-ae2ddd9c4c3c/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/100x100bb.jpg"
+        },
+        {
+            "name": "网上国网",
+            "appleId": "1438998315",
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/59/6f/62596fb9-2872-0f4f-0d6a-57b329c42c10/AppIcon-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/100x100bb.jpg"
+        }
     ]
 }
