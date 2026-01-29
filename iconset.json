@@ -1,180 +1,158 @@
 {
-    "name": "自用软件图标",
-    "description": "自建的Loon图标合集",
-    "icons": [
-        {
-            "name": "同花顺",
-            "url": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/同花顺.png"
-        },
-        {
-            "name": "糖心",
-            "url": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/糖心.png"
-        },
-        {
-            "name": "元气壁纸",
-            "url": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/元气壁纸.png"
-        },
-        {
-            "name": "波点音乐",
-            "url": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/波点音乐.png"
-        },
-        {
-            "name": "得物",
-            "url": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/得物.png"
-        },
-        {
-            "name": "识货",
-            "url": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/识货.png"
-        },
-        {
-            "name": "抖音",
-            "appleId": "1142110895",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/ad/91/5dad917b-5797-689c-ed0b-3a2778562402/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "微信",
-            "appleId": "414478124",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/7c/70/9c7c7080-c168-3960-4d8a-2feb5f4dd021/AppIcon-0-0-1x_U007epad-0-6-0-sRGB-0-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "拼多多",
-            "appleId": "1044283059",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/42/69/4a426900-e78e-9016-63cb-cba37c1b4802/AppIcon-1x_U007emarketing-0-8-0-0-0-85-220-0.png/100x100bb.jpg"
-        },
-        {
-            "name": "支付宝",
-            "appleId": "333206289",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/f2/d2/72f2d26e-13f8-dec9-982a-9e6db0e6d05e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "豆包",
-            "appleId": "6459478672",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/ce/f3/a3cef3b4-0a16-887d-dd50-d453479cb15f/AppIcon-0-0-1x_U007epad-0-8-0-sRGB-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "红果短剧",
-            "appleId": "6451407032",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/89/bd/0489bd22-4169-1369-cb4e-3ae5625e4356/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "抖音商城",
-            "appleId": "1485191072",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/a3/f8/c8a3f845-22a1-60c6-fa23-2681b8ba11ab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "千问",
-            "appleId": "6466733523",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/c4/fb/bcc4fbcf-92b3-409d-65f0-890ffc8da9f1/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg"
-        },
-        {
-            "name": "汽水音乐",
-            "appleId": "1605585211",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/0e/2a/2f0e2ade-2595-3ffc-89d6-834df46fa6bd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "多闪",
-            "appleId": "1435602536",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/09/c3/3a09c3d1-e19a-ca26-349e-e725086e7081/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "元宝",
-            "appleId": "6480446430",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/d0/fb/3ed0fbcd-34bf-9906-f945-855cb452c4c1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "中国移动",
-            "appleId": "583700738",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/81/99/60819907-f7cd-885e-c773-f8a1812aefad/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "滴滴出行",
-            "appleId": "554499054",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/b8/bd/e6b8bd89-72bc-f46e-6bc7-c089ae16970c/AppIcon_default-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "夸克",
-            "appleId": "1160172628",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/ec/d4/3fecd4aa-1508-5c95-4c72-3cb0b2fba993/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "京东",
-            "appleId": "414245413",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/66/1f/5a661f15-1958-1218-dedb-5cf521695f18/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "闲鱼",
-            "appleId": "510909506",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/a5/74/99a574c2-9a2e-d10d-095f-7c8d5cd67edc/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "番茄小说",
-            "appleId": "1468454200",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/5a/54/535a5414-bb8e-3854-76ef-a5240b61c393/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "即梦AI",
-            "appleId": "6503676563",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/c3/df/2bc3dfb9-d68d-c0d7-cdf2-884ca567242b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "交管12123",
-            "appleId": "1039727169",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/77/90/2777905f-48aa-7e4c-7b4b-7cf3bc6592e7/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "中国农业银行",
-            "appleId": "515651240",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/60/9a/3e609a23-6bd6-9b8a-11d7-faf6ea079b9d/AppIcon-1x_U007emarketing-0-6-0-0-sRGB-85-220-0.png/100x100bb.jpg"
-        },
-        {
-            "name": "云闪付",
-            "appleId": "600273928",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/c7/30/a8c73085-2d32-031e-a533-848c9f3c0097/AppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/100x100bb.jpg"
-        },
-        {
-            "name": "百度网盘",
-            "appleId": "547166701",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/e0/a1/f7e0a14a-0156-9a4b-9fd2-7bc9616cc315/AppIcon-0-0-1x_U007ephone-0-11-0-0-sRGB-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "铁路12306",
-            "appleId": "564818797",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/5e/ac/435eaceb-0c86-383c-c262-2e9a405c8ecf/AppIcon-0-0-1x_U007emarketing-0-9-0-0-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "中国工商银行",
-            "appleId": "423514795",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/47/11/774711ad-2d47-e6bb-4ea2-ee86ba3d96a1/AppIcon-1x_U007emarketing-0-11-0-0-sRGB-85-220-0.png/100x100bb.jpg"
-        },
-        {
-            "name": "DeepSeek",
-            "appleId": "6737597349",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/5e/ed/3c5eed21-208f-1c1b-c870-58576b8c9dc8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "高德地图",
-            "appleId": "461703208",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/bb/63/4abb6305-0c87-fcfb-16be-4eaa856856b9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "企业微信",
-            "appleId": "1087897068",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/64/66/5f6466ff-96d2-d375-3722-f06e9bdb5f8c/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.jpg"
-        },
-        {
-            "name": "剪映",
-            "appleId": "1458072671",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/4f/4c/f84f4cd6-2fec-90d4-debf-ff20c7d8aa7d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
-        },
-         {
-            "name": "中国联通",
-            "appleId": "416457422",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/97/35/139735d4-8fa9-73c1-147c-ae2ddd9c4c3c/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/100x100bb.jpg"
-        },
-        {
-            "name": "网上国网",
-            "appleId": "1438998315",
-            "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/59/6f/62596fb9-2872-0f4f-0d6a-57b329c42c10/AppIcon-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/100x100bb.jpg"
-        }
-    ]
+  "name": "Loon Custom Icons",
+  "description": "Synced by IconHunter",
+  "icons": [
+    {
+      "name": "同花顺",
+      "icon": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/同花顺.png"
+    },
+    {
+      "name": "糖心",
+      "icon": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/糖心.png"
+    },
+    {
+      "name": "元气壁纸",
+      "icon": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/元气壁纸.png"
+    },
+    {
+      "name": "波点音乐",
+      "icon": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/波点音乐.png"
+    },
+    {
+      "name": "得物",
+      "icon": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/得物.png"
+    },
+    {
+      "name": "识货",
+      "icon": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/识货.png"
+    },
+    {
+      "name": "抖音",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/ad/91/5dad917b-5797-689c-ed0b-3a2778562402/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "微信",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/7c/70/9c7c7080-c168-3960-4d8a-2feb5f4dd021/AppIcon-0-0-1x_U007epad-0-6-0-sRGB-0-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "拼多多",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/42/69/4a426900-e78e-9016-63cb-cba37c1b4802/AppIcon-1x_U007emarketing-0-8-0-0-0-85-220-0.png/100x100bb.jpg"
+    },
+    {
+      "name": "支付宝",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/f2/d2/72f2d26e-13f8-dec9-982a-9e6db0e6d05e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "豆包",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/ce/f3/a3cef3b4-0a16-887d-dd50-d453479cb15f/AppIcon-0-0-1x_U007epad-0-8-0-sRGB-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "红果短剧",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/89/bd/0489bd22-4169-1369-cb4e-3ae5625e4356/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "抖音商城",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/a3/f8/c8a3f845-22a1-60c6-fa23-2681b8ba11ab/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "千问",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bc/c4/fb/bcc4fbcf-92b3-409d-65f0-890ffc8da9f1/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg"
+    },
+    {
+      "name": "汽水音乐",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/0e/2a/2f0e2ade-2595-3ffc-89d6-834df46fa6bd/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "多闪",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/09/c3/3a09c3d1-e19a-ca26-349e-e725086e7081/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "元宝",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/d0/fb/3ed0fbcd-34bf-9906-f945-855cb452c4c1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "中国移动",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/81/99/60819907-f7cd-885e-c773-f8a1812aefad/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "滴滴出行",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/b8/bd/e6b8bd89-72bc-f46e-6bc7-c089ae16970c/AppIcon_default-0-0-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "夸克",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/ec/d4/3fecd4aa-1508-5c95-4c72-3cb0b2fba993/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "京东",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/66/1f/5a661f15-1958-1218-dedb-5cf521695f18/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "闲鱼",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/a5/74/99a574c2-9a2e-d10d-095f-7c8d5cd67edc/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "番茄小说",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/5a/54/535a5414-bb8e-3854-76ef-a5240b61c393/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "即梦AI",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/c3/df/2bc3dfb9-d68d-c0d7-cdf2-884ca567242b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "交管12123",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/77/90/2777905f-48aa-7e4c-7b4b-7cf3bc6592e7/AppIcon-0-0-1x_U007emarketing-0-5-0-0-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "中国农业银行",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/60/9a/3e609a23-6bd6-9b8a-11d7-faf6ea079b9d/AppIcon-1x_U007emarketing-0-6-0-0-sRGB-85-220-0.png/100x100bb.jpg"
+    },
+    {
+      "name": "云闪付",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/c7/30/a8c73085-2d32-031e-a533-848c9f3c0097/AppIcon-0-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/100x100bb.jpg"
+    },
+    {
+      "name": "百度网盘",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/e0/a1/f7e0a14a-0156-9a4b-9fd2-7bc9616cc315/AppIcon-0-0-1x_U007ephone-0-11-0-0-sRGB-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "铁路12306",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/5e/ac/435eaceb-0c86-383c-c262-2e9a405c8ecf/AppIcon-0-0-1x_U007emarketing-0-9-0-0-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "中国工商银行",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/47/11/774711ad-2d47-e6bb-4ea2-ee86ba3d96a1/AppIcon-1x_U007emarketing-0-11-0-0-sRGB-85-220-0.png/100x100bb.jpg"
+    },
+    {
+      "name": "DeepSeek",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/5e/ed/3c5eed21-208f-1c1b-c870-58576b8c9dc8/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "高德地图",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/bb/63/4abb6305-0c87-fcfb-16be-4eaa856856b9/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "企业微信",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/64/66/5f6466ff-96d2-d375-3722-f06e9bdb5f8c/AppIcon-0-1x_U007emarketing-0-8-0-sRGB-85-220-0.png/100x100bb.jpg"
+    },
+    {
+      "name": "剪映",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/4f/4c/f84f4cd6-2fec-90d4-debf-ff20c7d8aa7d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "中国联通",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/97/35/139735d4-8fa9-73c1-147c-ae2ddd9c4c3c/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "网上国网",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/59/6f/62596fb9-2872-0f4f-0d6a-57b329c42c10/AppIcon-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/100x100bb.jpg"
+    },
+    {
+      "name": "抖音 - 欢笑中国年",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/38/ef/cf38ef1e-f29c-b986-f374-531bf2629beb/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/1024x1024bb.jpg"
+    },
+    {
+      "name": "抖音精选-看视频",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/ff/6f/2fff6fb0-753e-7243-7401-04c23e5bd7bc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1024x1024bb.jpg"
+    }
+  ]
 }
