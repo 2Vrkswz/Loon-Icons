@@ -3,6 +3,10 @@
   "description": "Synced by IconHunter",
   "icons": [
     {
+      "name": "Apple Developer",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/9f/cc/2c9fcc3c-fdaf-2a82-7f5e-359a02fabe9f/AppIcon-Release-0-1x_U007epad-0-0-0-11-0-0-0-85-220-0.png/1024x1024bb.jpg"
+    },
+    {
       "name": "同花顺",
       "url": "https://raw.githubusercontent.com/2Vrkswz/Loon-Icons/main/icons/同花顺.png"
     },
@@ -165,10 +169,6 @@
     {
       "name": "王者荣耀",
       "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/20/e7/2e20e7d1-5556-02be-eb9e-1eb0cfcf024c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1024x1024bb.jpg"
-    },
-    {
-      "name": "Apple Developer",
-      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/9f/cc/2c9fcc3c-fdaf-2a82-7f5e-359a02fabe9f/AppIcon-Release-0-1x_U007epad-0-0-0-11-0-0-0-85-220-0.png/1024x1024bb.jpg"
     },
     {
       "name": "Apple Store",
