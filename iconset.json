@@ -153,6 +153,14 @@
     {
       "name": "抖音精选-看视频",
       "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/ff/6f/2fff6fb0-753e-7243-7401-04c23e5bd7bc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1024x1024bb.jpg"
+    },
+    {
+      "name": "高德地图-高德打车,导航公交地铁出行",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/b9/c2/80b9c2f1-52d3-1b88-cb7f-3063a8ef5af1/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1024x1024bb.jpg"
+    },
+    {
+      "name": "百度地图-智能导航，打车地铁公交更快出行",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/21/a0/5521a0d4-151a-e58f-c49e-a99a56eb9be7/appIconLiquid-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/1024x1024bb.jpg"
     }
   ]
 }
